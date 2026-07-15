@@ -1,0 +1,6 @@
+pynput
+pymem
+psutil
+pillow
+pynput
+pywin32
